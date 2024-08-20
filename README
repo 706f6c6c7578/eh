@@ -1,0 +1,10 @@
+Standard setting is GOST R 34.11-2012 256 bit
+
+Usage of eh:
+  -512
+        Use GOST R 34.11-2012 512-bit
+  -ripemd160
+        Use RIPEMD-160 hash algorithm
+  -sm3
+        Use Chinese SM3 hash algorithm
+
