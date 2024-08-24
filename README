@@ -5,6 +5,9 @@ Usage of eh:
         Use GOST R 34.11-2012 512-bit
   -ripemd160
         Use RIPEMD-160 hash algorithm
+  -ripemd256
+        Use RIPEMD-256 hash algorithm
+  -ripemd320
+        Use RIPEMD-320 hash algorithm
   -sm3
         Use Chinese SM3 hash algorithm
-
